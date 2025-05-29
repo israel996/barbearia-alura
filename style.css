@@ -7,7 +7,6 @@
 	padding: 30px;
 }
 
-
 .titulo-principal {
 	padding-left: 20px;
 	height: 15vw;
@@ -69,12 +68,6 @@ header {
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
-}
-
-nav {
-	position: absolute;
-	top: 110px;
-	right: 0;
 }
 
 nav li {
