@@ -1,3 +1,5 @@
+body {}
+
 #banner {
 	width: 100%;
 }
@@ -7,16 +9,16 @@
 	padding: 30px;
 }
 
-.titulo-principal {
-	padding-left: 20px;
-	height: 15vw;
-}
-
 .logo {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
 	font-size: 35px;
+}
+
+.titulo-principal {
+	padding-left: 20px;
+	height: 15vw;
 }
 
 .titulo-centralizado {
